@@ -45,7 +45,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sudoku-solver.git
+git clone https://github.com/malik2905/sudoku-solver.git
 cd sudoku-solver
 ```
 
