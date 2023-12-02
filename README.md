@@ -69,17 +69,11 @@ python sudoku_solver.py
 - **Left Arrow:** Set solving speed to the minimum
 - **Enter:** Start/Restart the solving process
 
-## Screenshots
-
-Include some screenshots or GIFs of your application in action to give users a visual representation of your Sudoku solver.
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 ```
-
-Make sure to replace placeholders like `your-username` with your actual GitHub username and customize the sections based on your project. Additionally, you may want to include screenshots or GIFs to showcase your application.
