@@ -52,7 +52,7 @@ cd sudoku-solver
 2. Run the application:
 
 ```bash
-python sudoku_solver.py
+python sudokuGUI.py
 ```
 
 ## Usage
