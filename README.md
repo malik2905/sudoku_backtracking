@@ -9,7 +9,6 @@ A Python script to visualize and solve Sudoku puzzles using a backtracking algor
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Controls](#controls)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -33,6 +32,7 @@ Make sure you have the following dependencies installed:
 - Python (3.6 or higher)
 - Pygame library
 - NumPy library
+- Py-sudoku library
 
 Install the required Python packages using the following command:
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/malik2905/sudoku-solver.git
+git clone https://github.com/malik2905/sudoku_backtracking.git
 cd sudoku-solver
 ```
 
