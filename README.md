@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/malik2905/sudoku_backtracking.git
-cd sudoku-solver
+cd sudoku_backtracking
 ```
 
 2. Run the application:
