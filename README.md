@@ -1,6 +1,6 @@
 Certainly! Here's a sample `README.md` file for your GitHub repository:
 
-```markdown
+
 # Sudoku Solver with Backtracking
 
 A Python script to visualize and solve Sudoku puzzles using a backtracking algorithm. This project utilizes the Pygame library for the graphical user interface.
